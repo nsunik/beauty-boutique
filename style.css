@@ -1,0 +1,125 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+	
+}
+.page-container{
+	background: linear-gradient( #022140,#F78888);
+	margin:0px 100px;
+	border: solid 3px;
+	
+}
+.header{
+	backgruond-color:;
+}
+.header h1{
+	font-family: cursive;
+	font-size: 50px;
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	color: orange;
+	text-shadow: 1px 1px #f78888;
+}
+
+.log-reg{
+	font-family: cursive;
+	padding-bottom: 5px;
+}
+.log-reg a{
+	color:#f78888;
+	text-decoration: none;
+}
+.main-nav ul{
+	background: pink;
+	list-style: none;
+	padding-left:0;
+}
+.main-nav ul li{
+	display: inline-block;
+	padding: 8px;
+}
+.main-nav ul li a{
+	font-family: cursive;
+	text-decoration:none;
+	fonr-size: 18px;
+	color: #022140;
+}
+.main-nav ul li:hover{
+	background-color: grey;
+}
+.main-nav ul li a:hover{
+	color: orange;
+}
+.content h1{
+	font-family: cursive;
+	color: orange;
+	fonr-size: 16px;
+}
+.content p{
+	color:white;
+	font-family: cursive;
+	
+}
+.footer{
+	background-color: grey;
+	padding: 10px 10px;
+	text-align: center;
+	fonr-size: ariel;
+	text-decoration: none;
+	color: black;
+}
+.footer a{
+	color: black;
+	text-decoration:none;
+}
+.footer a:hover{
+	color: pink;
+
+}
+
+
+
+.skincare h1{
+	color:orange;
+	font-family: cursive;
+}
+.skincare h2{
+	color:#F78888;
+	font-family: cursive;
+}
+.skincare p{
+	color:white;
+	font-family: cursive;
+}
+.book h1 a{
+	font-family: cursive;
+	font-size: 35px;
+	text-align: center;
+	padding-left: 300px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #022140;
+	text-shadow: 1px 1px #f78888;
+	
+}
+.services h1{
+	color:#022140;
+	font-family: cursive;
+	text-align: center;
+}
+.services h2{
+	color:  #022140;
+	font-family: cursive;
+}
+.services ul li{
+	color:  white;
+	font-family: cursive;
+	text-decoration:none;
+}
+.timings{
+	text-align: center;
+	color:  white;
+	font-family: cursive;
+}
